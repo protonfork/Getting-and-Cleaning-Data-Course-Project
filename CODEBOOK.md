@@ -2,8 +2,7 @@
 ## DataSummary.txt 
 
 ### Source of Data 
-Original Repository Link : 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+[Original Repository Link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
 
 The initial raw data for this database come from the accelerometer and 
 gyroscope 3-axial signals. These time domain signals (prefix 't' to denote time) 
@@ -35,21 +34,21 @@ mean of each measurement type for each Activity and each Subject.
             
 ### Variables
 
-* [1] "SubjectId"                                           
-
-	** Description : Id of the Experience Volunteer
-	** Range : 1 to 30
-	** Class : <int>
-	** Missing data count : 0
-	** Value indicating missing data : NA
+**[1] "SubjectId"                                           
+**
+	* Description : Id of the Experience Volunteer
+	* Range : 1 to 30
+	* Class : <int>
+	* Missing data count : 0
+	* Value indicating missing data : NA
 	
-* [2] "Activity"                         
-                   
-	** Description : Name of the activity performed by the Volunteer
-	** Range : ("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", 
+**[2] "Activity"                         
+**                 
+	* Description : Name of the activity performed by the Volunteer
+	* Range : ("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", 
 			"STANDING", "LAYING")
-	** Class : <chr>
-	** Value indicating missing data : NA
+	* Class : <chr>
+	* Value indicating missing data : NA
 	
 [3] "ActivityId"                                          
 	Id of the activity performed by the Volunteer
