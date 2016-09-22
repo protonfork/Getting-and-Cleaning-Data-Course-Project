@@ -34,7 +34,7 @@ mean of each measurement type for each Activity and each Subject.
             
 ### Variables
 
-**[1] "SubjectId" **
+** [1] "SubjectId" **
 
 	* Description : Id of the Experience Volunteer
 	* Range : 1 to 30
@@ -42,7 +42,7 @@ mean of each measurement type for each Activity and each Subject.
 	* Missing data count : 0
 	* Value indicating missing data : NA
 	
-**[2] "Activity" **                 
+** [2] "Activity" **                 
 
 	* Description : Name of the activity performed by the Volunteer
 	* Range : ("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", 
