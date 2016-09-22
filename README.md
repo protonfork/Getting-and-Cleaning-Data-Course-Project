@@ -22,9 +22,9 @@ The aim of this analysis is to derivate from the raw data package of measures a 
 containing average per subjects and per activity. In addition, the summary should arrange variable
 names to facilitate furture analysis.
 
-Original Repository Link[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#]
+[Original Repository Link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#])
 
-Coursera Course Link[https://www.coursera.org/learn/data-cleaning]
+[Coursera Course Link](https://www.coursera.org/learn/data-cleaning)
 
 Release Notes
 
