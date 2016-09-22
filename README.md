@@ -6,12 +6,12 @@ course provided on Coursera by Johns Hopkins University. It aims at demonstratin
 clean, order datas with respect of professionnal exigeance of Data Science.
 
 Script are provided along with the following elements :
-	run_analysis.R : main script
-	databasepath.R : source of the links to the database files
-	data/ : directory of the raw data package
-	DataSummary.txt : result of the analysis in text format, column separated by a tab
-	CODEBOOKX.md : Codebook of the Data Summary
-	README.md : this file
+	* run_analysis.R : main script
+	* databasepath.R : source of the links to the database files
+	* data/ : directory of the raw data package
+	* DataSummary.txt : result of the analysis in text format, column separated by a tab
+	* CODEBOOKX.md : Codebook of the Data Summary
+	* README.md : this file
 	
 	
 As part of an experiment, 30 subjects performed 6 activities wearing a smartphone on the waist. 
